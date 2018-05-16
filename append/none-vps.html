@@ -1,0 +1,1165 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-hans" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>不写VPS搭建的原因 · 这本书能让你连接互联网</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        <meta name="author" content="loremwalker">
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search-plus/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-alerts/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-ace/ace.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-emphasize/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-advanced-emoji/emoji-website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../summarize.html" />
+    
+    
+    <link rel="prev" href="vpn-proxy.html" />
+    
+
+    <style>
+    @media only screen and (max-width: 640px) {
+        .book-header .hidden-mobile {
+            display: none;
+        }
+    }
+    </style>
+    <script>
+        window["gitbook-plugin-github-buttons"] = {"buttons":[{"user":"loremwalker","repo":"fq-book","type":"star","size":"smail","count":true},{"user":"loremwalker","type":"fork","size":"smail","count":true}]};
+    </script>
+
+    <link href="https://loremwalker.github.io/fq-book/rss" title="科学上网" rel="alternate" type="application/rss+xml" />
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="输入并搜索" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="/" target="_blank" class="custom-link">这本书能让你连接互联网</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        <li class="header">关于此书</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                        <b>1.1.</b>
+                    
+                    前言
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">阅读须知</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="../notice/4gfw.html">
+            
+                <a href="../notice/4gfw.html">
+            
+                    
+                        <b>2.1.</b>
+                    
+                    4GFW
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="../notice/warnning.html">
+            
+                <a href="../notice/warnning.html">
+            
+                    
+                        <b>2.2.</b>
+                    
+                    注意事项
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="../notice/nsfw.html">
+            
+                <a href="../notice/nsfw.html">
+            
+                    
+                        <b>2.3.</b>
+                    
+                    隐私防护
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">搜索引擎</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="../search-tool/qwant.html">
+            
+                <a href="../search-tool/qwant.html">
+            
+                    
+                        <b>3.1.</b>
+                    
+                    Qwant
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="../search-tool/ecosia.html">
+            
+                <a href="../search-tool/ecosia.html">
+            
+                    
+                        <b>3.2.</b>
+                    
+                    Ecosia
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="../search-tool/duckduckgo.html">
+            
+                <a href="../search-tool/duckduckgo.html">
+            
+                    
+                        <b>3.3.</b>
+                    
+                    DuckDuckGo
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="3.4" data-path="../search-tool/ask.html">
+            
+                <a href="../search-tool/ask.html">
+            
+                    
+                        <b>3.4.</b>
+                    
+                    Ask
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">浏览应用</li>
+        
+        
+    
+        <li class="chapter " data-level="4.1" data-path="../browser/tor-firefox.html">
+            
+                <a href="../browser/tor-firefox.html">
+            
+                    
+                        <b>4.1.</b>
+                    
+                    Tor（Firefox）
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.2" data-path="../browser/opera.html">
+            
+                <a href="../browser/opera.html">
+            
+                    
+                        <b>4.2.</b>
+                    
+                    opera
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.3" data-path="../browser/chrome.html">
+            
+                <a href="../browser/chrome.html">
+            
+                    
+                        <b>4.3.</b>
+                    
+                    chrome
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">防止劫持</li>
+        
+        
+    
+        <li class="chapter " data-level="5.1" data-path="../no-dns-hijacking/dns.html">
+            
+                <a href="../no-dns-hijacking/dns.html">
+            
+                    
+                        <b>5.1.</b>
+                    
+                    修改DNS防止劫持
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">防止污染</li>
+        
+        
+    
+        <li class="chapter " data-level="6.1" data-path="../no-dns-spoofing/hosts.html">
+            
+                <a href="../no-dns-spoofing/hosts.html">
+            
+                    
+                        <b>6.1.</b>
+                    
+                    修改hosts查询维基百科
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="6.2" data-path="../no-dns-spoofing/dnscrypt.html">
+            
+                <a href="../no-dns-spoofing/dnscrypt.html">
+            
+                    
+                        <b>6.2.</b>
+                    
+                    DNSCrypt打开论坛站点
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">使用网站</li>
+        
+        
+    
+        <li class="chapter " data-level="7.1" data-path="../how-used-web/web-proxy.html">
+            
+                <a href="../how-used-web/web-proxy.html">
+            
+                    
+                        <b>7.1.</b>
+                    
+                    网页代理的使用
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.2" data-path="../how-used-web/rabb.html">
+            
+                <a href="../how-used-web/rabb.html">
+            
+                    
+                        <b>7.2.</b>
+                    
+                    rabb.it观看YouTube
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.3" data-path="../how-used-web/herokusss.html">
+            
+                <a href="../how-used-web/herokusss.html">
+            
+                    
+                        <b>7.3.</b>
+                    
+                    heroku搭建ss服务器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.4" data-path="../how-used-web/heroku4v2.html">
+            
+                <a href="../how-used-web/heroku4v2.html">
+            
+                    
+                        <b>7.4.</b>
+                    
+                    heroku搭建v2ray服务器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.5" data-path="../how-used-web/heroku-deploy.html">
+            
+                <a href="../how-used-web/heroku-deploy.html">
+            
+                    
+                        <b>7.5.</b>
+                    
+                    heroku搭建ss分享站点
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="7.6" data-path="../how-used-web/4sol.html">
+            
+                <a href="../how-used-web/4sol.html">
+            
+                    
+                        <b>7.6.</b>
+                    
+                    提取各类科学上网站点有效信息
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">代理工具</li>
+        
+        
+    
+        <li class="chapter " data-level="8.1" data-path="../proxy-tool/ss-ssr.html">
+            
+                <a href="../proxy-tool/ss-ssr.html">
+            
+                    
+                        <b>8.1.</b>
+                    
+                    SS/SSR
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.2" data-path="../proxy-tool/brook.html">
+            
+                <a href="../proxy-tool/brook.html">
+            
+                    
+                        <b>8.2.</b>
+                    
+                    brook
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.3" data-path="../proxy-tool/v2ray.html">
+            
+                <a href="../proxy-tool/v2ray.html">
+            
+                    
+                        <b>8.3.</b>
+                    
+                    v2ray
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.4" data-path="../proxy-tool/lantern.html">
+            
+                <a href="../proxy-tool/lantern.html">
+            
+                    
+                        <b>8.4.</b>
+                    
+                    Lantern
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.5" data-path="../proxy-tool/proxifier.html">
+            
+                <a href="../proxy-tool/proxifier.html">
+            
+                    
+                        <b>8.5.</b>
+                    
+                    proxifier
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.6" data-path="../proxy-tool/privoxy.html">
+            
+                <a href="../proxy-tool/privoxy.html">
+            
+                    
+                        <b>8.6.</b>
+                    
+                    privoxy
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="8.7" data-path="../proxy-tool/SSH-Tunnel.html">
+            
+                <a href="../proxy-tool/SSH-Tunnel.html">
+            
+                    
+                        <b>8.7.</b>
+                    
+                    SSH-Tunnel
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">VPN软件</li>
+        
+        
+    
+        <li class="chapter " data-level="9.1" data-path="../vpn-soft/pay-vpn.html">
+            
+                <a href="../vpn-soft/pay-vpn.html">
+            
+                    
+                        <b>9.1.</b>
+                    
+                    付费VPN
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.2" data-path="../vpn-soft/betternet.html">
+            
+                <a href="../vpn-soft/betternet.html">
+            
+                    
+                        <b>9.2.</b>
+                    
+                    Betternet
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.3" data-path="../vpn-soft/openvpn.html">
+            
+                <a href="../vpn-soft/openvpn.html">
+            
+                    
+                        <b>9.3.</b>
+                    
+                    OpenVPN
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="9.4" data-path="../vpn-soft/gatevpn.html">
+            
+                <a href="../vpn-soft/gatevpn.html">
+            
+                    
+                        <b>9.4.</b>
+                    
+                    GateVPN
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">特别篇章</li>
+        
+        
+    
+        <li class="chapter " data-level="10.1" data-path="../vmse/vm.html">
+            
+                <a href="../vmse/vm.html">
+            
+                    
+                        <b>10.1.</b>
+                    
+                    宿主机使用VM的代理
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">科学普及</li>
+        
+        
+    
+        <li class="chapter " data-level="11.1" data-path="../abc/connection.html">
+            
+                <a href="../abc/connection.html">
+            
+                    
+                        <b>11.1.</b>
+                    
+                    软件互联协议
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.2" data-path="../abc/4dns.html">
+            
+                <a href="../abc/4dns.html">
+            
+                    
+                        <b>11.2.</b>
+                    
+                    DNS劫持与污染
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.3" data-path="../abc/web-proxy-x.html">
+            
+                <a href="../abc/web-proxy-x.html">
+            
+                    
+                        <b>11.3.</b>
+                    
+                    网页代理的原理
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.4" data-path="../abc/4vpn.html">
+            
+                <a href="../abc/4vpn.html">
+            
+                    
+                        <b>11.4.</b>
+                    
+                    [转]VPN隧道协议
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.5" data-path="../abc/1190000011485579.html">
+            
+                <a href="../abc/1190000011485579.html">
+            
+                    
+                        <b>11.5.</b>
+                    
+                    [转]科学上网原理
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.6" data-path="../abc/gfw.html">
+            
+                <a href="../abc/gfw.html">
+            
+                    
+                        <b>11.6.</b>
+                    
+                    [转]GFW原理和封锁技术
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.7" data-path="../abc/meek.html">
+            
+                <a href="../abc/meek.html">
+            
+                    
+                        <b>11.7.</b>
+                    
+                    [转]meek网桥的技术原理
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.8" data-path="../abc/win7-wifi.html">
+            
+                <a href="../abc/win7-wifi.html">
+            
+                    
+                        <b>11.8.</b>
+                    
+                    [转]用Win7，电脑就是路由器
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.9" data-path="../abc/3vm.html">
+            
+                <a href="../abc/3vm.html">
+            
+                    
+                        <b>11.9.</b>
+                    
+                    [转]VMware的3种网络模式
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="11.10" data-path="../abc/4nat.html">
+            
+                <a href="../abc/4nat.html">
+            
+                    
+                        <b>11.10.</b>
+                    
+                    [转]net类型科普以及提升方法
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">细节补充</li>
+        
+        
+    
+        <li class="chapter " data-level="12.1" data-path="ss1130.html">
+            
+                <a href="ss1130.html">
+            
+                    
+                        <b>12.1.</b>
+                    
+                    ss#1130
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.2" data-path="caoliu.html">
+            
+                <a href="caoliu.html">
+            
+                    
+                        <b>12.2.</b>
+                    
+                    难封锁的草榴
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.3" data-path="android.html">
+            
+                <a href="android.html">
+            
+                    
+                        <b>12.3.</b>
+                    
+                    安卓手机权限
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.4" data-path="block-ip.html">
+            
+                <a href="block-ip.html">
+            
+                    
+                        <b>12.4.</b>
+                    
+                    封锁IP的理解
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.5" data-path="game.html">
+            
+                <a href="game.html">
+            
+                    
+                        <b>12.5.</b>
+                    
+                    对游戏的解读
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.6" data-path="get-method.html">
+            
+                <a href="get-method.html">
+            
+                    
+                        <b>12.6.</b>
+                    
+                    获取工具方法
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.7" data-path="vpn-proxy.html">
+            
+                <a href="vpn-proxy.html">
+            
+                    
+                        <b>12.7.</b>
+                    
+                    对VPN与代理的整合
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="12.8" data-path="none-vps.html">
+            
+                <a href="none-vps.html">
+            
+                    
+                        <b>12.8.</b>
+                    
+                    不写VPS搭建的原因
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">文章总结</li>
+        
+        
+    
+        <li class="chapter " data-level="13.1" data-path="../summarize.html">
+            
+                <a href="../summarize.html">
+            
+                    
+                        <b>13.1.</b>
+                    
+                    总结
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">参考文献</li>
+        
+        
+    
+        <li class="chapter " data-level="14.1" data-path="../reference/literature.html">
+            
+                <a href="../reference/literature.html">
+            
+                    
+                        <b>14.1.</b>
+                    
+                    文献名单
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            本书使用 GitBook 发布
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >不写VPS搭建的原因</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div class="search-plus" id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x4E0D;&#x5199;vps&#x642D;&#x5EFA;&#x7684;&#x539F;&#x56E0;">&#x4E0D;&#x5199;VPS&#x642D;&#x5EFA;&#x7684;&#x539F;&#x56E0;</h1>
+<p>&#x524D;&#x8A00;&#x4E5F;&#x63D0;&#x5230;&#x8FC7;&#xFF0C; &#x81EA;&#x642D;&#x4F7F;&#x7528;&#x514D;&#x8D39;&#x4E91;&#x53C8;&#x9700;&#x8981;&#x9650;&#x5236;&#x6761;&#x4EF6;&#x5F88;&#x9AD8;visa&#x4FE1;&#x7528;&#x5361;&#xFF0C;&#x4E0D;&#x8FC7;&#x53EF;&#x4EE5;&#x529E;&#x4E00;&#x5F20;&#x4E2D;&#x56FD;&#x94F6;&#x884C;&#x7684;&#x94F6;&#x8054;&#x5361;&#xFF0C;&#x4E70;&#x7F8E;&#x5143;&#x8F6C;&#x8D26;&#x5230;visa&#x501F;&#x8BB0;&#x5361;&#xFF0C;&#x4F46;&#x8FD9;&#x6837;&#x53C8;&#x5B9E;&#x5728;&#x5F88;&#x662F;&#x9EBB;&#x70E6;&#x3002;&#x652F;&#x6301;&#x652F;&#x4ED8;&#x5B9D;&#x7684;&#x56FD;&#x5916;VPS&#xFF0C;&#x76EE;&#x524D;&#x4E5F;&#x6CA1;&#x6709;&#x514D;&#x8D39;&#x7684;&#x4E3B;&#x673A;&#x914D;&#x989D;&#x3002; &#x518D;&#x8BF4;&#x4E5F;&#x5F3A;&#x8C03;&#x8FC7;&#xFF0C;&#x6B64;&#x4E66;&#x9488;&#x5BF9;&#x7684;&#x53D7;&#x4F17;&#x662F;&#x8FFD;&#x6C42;&#x81EA;&#x7531;&#x514D;&#x8D39;&#x5730;&#x4E92;&#x8054;&#x7F51;&#x4E14;&#x6709;&#x610F;&#x5411;&#x4E86;&#x89E3;&#x8BA1;&#x7B97;&#x673A;&#x4E13;&#x4E1A;&#x7684;&#x76F8;&#x5173;&#x4EBA;&#x7FA4;&#x7B49;&#x3002;</p>
+<p>&#x82B1;&#x94B1;&#x4E70;VPS&#x4E3B;&#x673A;&#x73A9;&#x6E38;&#x620F;&#x7684;&#x8BDD;&#x771F;&#x662F;&#x5F97;&#x4E0D;&#x507F;&#x5931;&#xFF0C;&#x4F7F;&#x7528;&#x4EE3;&#x7406;&#x5F88;&#x6298;&#x817E;&#x5173;&#x5FC3;&#x5404;&#x7C7B;&#x534F;&#x8BAE;&#x4E4B;&#x95F4;&#x7684;&#x8F6C;&#x53D1;&#x3001;&#x6E38;&#x620F;&#x5382;&#x5546;&#x5BF9;&#x4EE3;&#x7406;&#x7684;&#x9650;&#x5236;&#x7B49;&#x7B49;&#x65B9;&#x9762;&#xFF1B;&#x4F7F;&#x7528;&#x53EF;&#x81EA;&#x642D;&#x914D;&#x7F6E;&#x7684;VPN&#x88AB;&#x5C01;&#x6740;&#x7684;&#x6982;&#x7387;&#x53C8;&#x662F;&#x76F8;&#x5F53;&#x7684;&#x9AD8;&#xFF0C;&#x6BD4;&#x82B1;&#x5927;&#x4EF7;&#x94B1;&#x4E70;&#x4EE3;&#x7406;&#x66F4;&#x4E0D;&#x53EF;&#x9760;&#xFF0C;&#x8FD9;&#x4E24;&#x8005;&#x90FD;&#x8FD8;&#x4E0D;&#x5982;&#x76F4;&#x63A5;&#x4E70;&#x5927;&#x5382;&#x7684;VPN&#x670D;&#x52A1;&#x5212;&#x7B97;&#x7684;&#x591A;&#x3002;</p>
+<p>&#x800C;&#x4E14;&#x5199;&#x4E86;&#x8FD9;&#x4E48;&#x591A;&#x65B9;&#x5F0F;&#x4E0E;&#x6280;&#x5DE7;&#x5E94;&#x8BE5;&#x662F;&#x8DB3;&#x77E3;&#x5E94;&#x4ED8;&#x5899;&#x4E86;&#xFF0C;&#x5982;&#x6709;&#x5174;&#x8DA3;&#x4E86;&#x89E3;&#x5173;&#x4E8E;VPS&#x7684;&#x642D;&#x5EFA;&#x53EF;&#x53BB;YouTube&#x89C2;&#x770B;&#x8BE6;&#x7EC6;&#x7684;&#x6559;&#x7A0B;&#x89C6;&#x9891;&#xFF0C;&#x56FD;&#x4EA7;&#x7684;VPS&#x867D;&#x7136;&#x6709;&#x56FD;&#x9645;&#x7248;&#x4F46;&#x662F;&#x8FD8;&#x662F;&#x6781;&#x5176;&#x4E0D;&#x5EFA;&#x8BAE;&#x4F7F;&#x7528;&#xFF0C;&#x8FD9;&#x91CC;&#x5C31;&#x7ED9;&#x51FA;&#x5199;&#x5F97;&#x5F88;&#x5408;&#x7406;&#x7684;<a href="https://www.10besty.com/best-vps-hosting-services/#one" target="_blank">VPS&#x4E3B;&#x673A;&#x5382;&#x5546;&#x8BC4;&#x6D4B;</a>&#x7684;&#x94FE;&#x63A5;&#x505A;&#x4E2A;&#x53C2;&#x8003;&#xFF0C;&#x5176;&#x5B9E;&#x4E9A;&#x9A6C;&#x900A;&#x7684;aws&#x3001;&#x5FAE;&#x8F6F;&#x7684;azure&#x90FD;&#x5F88;&#x4E0D;&#x9519;&#x3002;</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="vpn-proxy.html" class="navigation navigation-prev " aria-label="Previous page: 对VPN与代理的整合">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../summarize.html" class="navigation navigation-next " aria-label="Next page: 总结">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"不写VPS搭建的原因","level":"12.8","depth":1,"next":{"title":"总结","level":"13.1","depth":1,"path":"summarize.md","ref":"summarize.md","articles":[]},"previous":{"title":"对VPN与代理的整合","level":"12.7","depth":1,"path":"append/vpn-proxy.md","ref":"append/vpn-proxy.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","-sharing","sharing-plus","alerts","expandable-chapters-small","rss","ace","emphasize","todo","advanced-emoji","github","ga","github-buttons","livereload"],"root":".","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"emphasize":{},"ace":{},"github":{"url":"https://github.com/loremwalker"},"livereload":{},"todo":{},"sharing-plus":{"qq":false,"all":["facebook","google","twitter","instapaper","linkedin","pocket","stumbleupon"],"douban":false,"facebook":true,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":true,"messenger":false,"line":false,"vk":false,"pocket":true,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"fontsettings":{"theme":"white","family":"sans","size":2},"rss":{"categories":["gitbook"],"title":"科学上网","description":"FREE科学上网","author":"loremwalker","feed_url":"https://loremwalker.github.io/fq-book/rss","site_url":"https://loremwalker.github.io/fq-book/","managingEditor":"loremwalker@hotmail.com","webMaster":"loremwalker@hotmail.com"},"highlight":{},"alerts":{},"github-buttons":{"buttons":[{"user":"loremwalker","repo":"fq-book","type":"star","size":"smail","count":true},{"user":"loremwalker","type":"fork","size":"smail","count":true}]},"expandable-chapters-small":{},"ga":{"configuration":"auto","token":"UA-118581437-1"},"advanced-emoji":{"embedEmojis":false},"sharing":{"qq":false,"all":["facebook","google","twitter","qq","qzone"],"douban":false,"facebook":false,"weibo":false,"instapaper":false,"whatsapp":false,"hatenaBookmark":false,"twitter":false,"messenger":false,"line":false,"vk":false,"pocket":false,"google":false,"viber":false,"stumbleupon":false,"qzone":false,"linkedin":false},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":true},"search-plus":{}},"theme":"default","author":"loremwalker","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"readme.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"这本书能让你连接互联网","language":"zh-hans","output.name":"site","links":{"sidebar":{"这本书能让你连接互联网":"/"}},"gitbook":"3.2.3","description":"FREE科学上网的方式"},"file":{"path":"append/none-vps.md","mtime":"2018-05-16T17:15:31.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-05-16T17:55:48.699Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-plus/jquery.mark.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search-plus/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing-plus/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-alerts/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-rss/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-ace/ace/ace.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-ace/ace.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-github-buttons/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[科学上网]]></title>
+        <description><![CDATA[FREE科学上网]]></description>
+        <link>https://loremwalker.github.io/fq-book/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 16 May 2018 17:56:05 GMT</lastBuildDate>
+        <atom:link href="https://loremwalker.github.io/fq-book/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[loremwalker]]></author>
+        <managingEditor><![CDATA[loremwalker@hotmail.com]]></managingEditor>
+        <webMaster><![CDATA[loremwalker@hotmail.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[前言]]></title>
+            <description><![CDATA[时至今日，才明白集中意志大炼钢铁造芯片厉害了的道理，原来这并不奇怪；不同意见已被流量风向标所代理了，网络不发达，信息又入口太少。这个regimes存在就一直是这样， 随着时间反复循环也是早晚的问题；虽有良田万亩，能展翅高飞的migrate却不太向往这美好而又和谐的地方。]]></description>
+            <link>https://loremwalker.github.io/fq-book/</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[了解GFW]]></title>
+            <link>https://loremwalker.github.io/fq-book/notice/4gfw.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/notice/4gfw.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[注意事项]]></title>
+            <link>https://loremwalker.github.io/fq-book/notice/warnning.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/notice/warnning.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[隐私防护]]></title>
+            <link>https://loremwalker.github.io/fq-book/notice/nsfw.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/notice/nsfw.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Qwant]]></title>
+            <description><![CDATA[搜索效果很不错，数据很全面，推荐！]]></description>
+            <link>https://loremwalker.github.io/fq-book/search-tool/qwant.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/search-tool/qwant.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Ecosia]]></title>
+            <description><![CDATA[主要搜索源是bing，必应国内版返回的数据和谐较多]]></description>
+            <link>https://loremwalker.github.io/fq-book/search-tool/ecosia.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/search-tool/ecosia.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[DuckDuckGo]]></title>
+            <description><![CDATA[目前已被封IP]]></description>
+            <link>https://loremwalker.github.io/fq-book/search-tool/duckduckgo.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/search-tool/duckduckgo.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Ask]]></title>
+            <description><![CDATA[现今IP被封禁]]></description>
+            <link>https://loremwalker.github.io/fq-book/search-tool/ask.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/search-tool/ask.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Tor（Firefox）]]></title>
+            <description><![CDATA[与tor性质差不多的软件还有I2P，更具隐匿性更抗封杀，有兴趣的可以试试看，这里就不做说明与演示了。]]></description>
+            <link>https://loremwalker.github.io/fq-book/browser/tor-firefox.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/tor-firefox.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[opera]]></title>
+            <description><![CDATA[使用VPN]]></description>
+            <link>https://loremwalker.github.io/fq-book/browser/opera.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/opera.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[chrome]]></title>
+            <description><![CDATA[扩展压缩包的使用]]></description>
+            <link>https://loremwalker.github.io/fq-book/browser/chrome.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/browser/chrome.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[修改DNS防止劫持]]></title>
+            <description><![CDATA[进入baidns.cn，记住此DNS地址]]></description>
+            <link>https://loremwalker.github.io/fq-book/no-dns-hijacking/dns.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/no-dns-hijacking/dns.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[修改hosts查询维基百科]]></title>
+            <description><![CDATA[找到C:\Windows\System32\drivers\etc\host，打开它]]></description>
+            <link>https://loremwalker.github.io/fq-book/no-dns-spoofing/hosts.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/no-dns-spoofing/hosts.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[DNSCrypt打开论坛站点]]></title>
+            <description><![CDATA[开启DNSCrypt服务与网卡选项√]]></description>
+            <link>https://loremwalker.github.io/fq-book/no-dns-spoofing/dnscrypt.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/no-dns-spoofing/dnscrypt.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[网页代理的使用]]></title>
+            <description><![CDATA[anyproxy.cn、anyproxy.top均可使用]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/web-proxy.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/web-proxy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[rabb.it观看YouTube]]></title>
+            <description><![CDATA[rabbit也就是某些人常称的兔子，是视频应用社交分享平台，由于内置了连接外网的虚拟云Ubantu系统，所以能够科学上网。]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/rabb.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/rabb.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[heroku搭建ss服务器]]></title>
+            <description><![CDATA[fork！github项目：]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/herokusss.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/herokusss.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[heroku搭建v2ray服务器]]></title>
+            <description><![CDATA[fork！github项目：]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/heroku4v2.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/heroku4v2.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[heroku搭建ss分享站点]]></title>
+            <description><![CDATA[fork！github项目：]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/heroku-deploy.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/heroku-deploy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[提取各类科学上网站点有效信息]]></title>
+            <description><![CDATA[收集信息]]></description>
+            <link>https://loremwalker.github.io/fq-book/how-used-web/4sol.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/how-used-web/4sol.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[SS/SSR]]></title>
+            <description><![CDATA[访问ss站点，右键扫描二维码]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/ss-ssr.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/ss-ssr.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[brook]]></title>
+            <description><![CDATA[进入逗比ss分享站点，免费账号分享，服务器列表brook行中点击查看二维码；在生成编码文件页面中，以开发者模式打开控制台输入URL解码代码：]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/brook.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/brook.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[v2ray]]></title>
+            <description><![CDATA[在使用v2ray前，需要下载SwitchyOmega插件，打开ss分享站点，点击蓝色配置小齿轮，下载config.json]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/v2ray.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/v2ray.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Lantern]]></title>
+            <description><![CDATA[打开蓝灯点击高级设置按此配置代理，类似的代理软件有tuxler，免费免流无期限使用]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/lantern.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/lantern.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[proxifier]]></title>
+            <description><![CDATA[与其他科学上网代理工具不同，这个款软件用于网络协议之间的转换。用于打开不同网络协议的软件互联；试用一月，不受任何费用。]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/proxifier.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[privoxy]]></title>
+            <description><![CDATA[privoxy是一个http/https协议代理工具，通过它将sock协议转换为http/https协议，以便访问互联网，这也是v2rayGUI与ss自带的协议转发软件。]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/privoxy.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/privoxy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[SSH-Tunnel]]></title>
+            <description><![CDATA[打开SSH站点，创建SSH账户]]></description>
+            <link>https://loremwalker.github.io/fq-book/proxy-tool/SSH-Tunnel.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/proxy-tool/SSH-Tunnel.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[付费VPN]]></title>
+            <description><![CDATA[说明：]]></description>
+            <link>https://loremwalker.github.io/fq-book/vpn-soft/pay-vpn.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vpn-soft/pay-vpn.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Betternet]]></title>
+            <description><![CDATA[点击]]></description>
+            <link>https://loremwalker.github.io/fq-book/vpn-soft/betternet.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vpn-soft/betternet.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[OpenVPN]]></title>
+            <description><![CDATA[重点封杀的对象，免费提供的配置连接成功率较低，也有很高的，网速还不错；此外，一些SSH站点也提供OpenVPN配置文件下载。]]></description>
+            <link>https://loremwalker.github.io/fq-book/vpn-soft/openvpn.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vpn-soft/openvpn.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[GateVPN]]></title>
+            <description><![CDATA[重点且易被封杀的对象，需要选择合适的协议与连接方式，否则连接成功率极低]]></description>
+            <link>https://loremwalker.github.io/fq-book/vpn-soft/gatevpn.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vpn-soft/gatevpn.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[宿主机使用VM的代理]]></title>
+            <description><![CDATA[在NAT模式中，虚拟机通过宿主机器所在的公网网络来访问互联网（目前在墙内），vm使用代理软件转发端口监听任意地址，主机在代理中配置同一公网内的局域网IP与端口，完成网络之间的互联共享。以下是具体实例：]]></description>
+            <link>https://loremwalker.github.io/fq-book/vmse/vm.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/vmse/vm.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[软件互联协议机制]]></title>
+            <description><![CDATA[软件使用网络协议取向：]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/connection.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/connection.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[域名劫持与污染]]></title>
+            <description><![CDATA[域名是Internet上某一台计算机或计算机组的名称，用于数据传输时标识计算机的电子方位，有时也指地理位置。域名是由一串用点分隔的名字组成的，通常包含组织名，而且始终包括两到三个字母的后缀，以指明组织的类型或该域所在的国家或地区。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/4dns.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/4dns.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[网页代理原理]]></title>
+            <description><![CDATA[浏览器客户端提交网址的时候，代理程序开始在当前服务器寻找远程网站的缓存网页和网站，找到目标网站后，代理程序马上将网站数据返回到用户的浏览器客户端；如果当前服务器没有该远程服务器的缓存，代理程序则会自动读取远程网站，将远程网站的资料提交给客户端，同时将资料缓存提供给下一次的浏览需求。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/web-proxy-x.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/web-proxy-x.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[转]VPN隧道协议]]></title>
+            <description><![CDATA[整理自网络：]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/4vpn.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/4vpn.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[转]科学上网原理]]></title>
+            <description><![CDATA[在很久很久以前，我们访问各种网站都是简单而直接的，用户的请求通过互联网发送到服务提供方，服务提供方直接将信息反馈给用户。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/1190000011485579.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/1190000011485579.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[转]GFW原理和封锁技术]]></title>
+            <description><![CDATA[GFW是Great Fire Wall的缩写，即“长城防火墙”。这个工程由若干个部分组成，实现不同功能。长城防火墙主要指TG监控和过滤互联网内容的软硬件系统，由服务器和路由器等设备，加上相关的应用程序所构成。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/gfw.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/gfw.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[转]meek网桥的技术原理]]></title>
+            <description><![CDATA[首先，tor从使用者本机直到出口节点的传输是强加密的，别人无法偷窥你的真实网络流量。除非tor软件本身出现严重安全漏洞或者碰到的出口节点是蜜罐。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/meek.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/meek.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[转]用Win7，电脑就是路由器]]></title>
+            <description><![CDATA[在平常上网过程中，难免会遇到一些网络方面的问题，这时候我们就需要查看网络连接的状态，查找问题根源。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/win7-wifi.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/win7-wifi.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[[转]VMware的3种网络模式]]></title>
+            <description><![CDATA[桥接网络是指本地物理网卡和虚拟网卡通过VMnet0虚拟交换机进行桥接，物理网卡和虚拟网卡在拓扑图上处于同等地位（虚拟网卡既不是Adepter VMnet1也不是Adepter VMnet8）。]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/3vm.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/3vm.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[NAT类型科普及一些简单提升方法]]></title>
+            <description><![CDATA[首先可以在百度百科了解到什么是“NAT”，传送门→“NAT科普”
+然后呢，看了那么多我们大概就知道了一些关于NAT的基本知识，比如说定义、功能、实现方式及类型]]></description>
+            <link>https://loremwalker.github.io/fq-book/abc/4nat.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/abc/4nat.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[关于ss#1130]]></title>
+            <link>https://loremwalker.github.io/fq-book/append/ss1130.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/ss1130.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[难封锁的草榴]]></title>
+            <description><![CDATA[一个IP指向多个地址，污染一个域名还有另一个域名指向。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/caoliu.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/caoliu.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[安卓手机权限]]></title>
+            <description><![CDATA[为了捆绑各类全家桶APP占据市场份额，以及国内政府严禁使用谷歌各类服务，又因很多爱国工具需要在Google Play商店运行。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/android.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/android.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[封锁IP的理解]]></title>
+            <description><![CDATA[GFW采用IP地址屏蔽，所有的骨干路由器和国际出口的路由器都添加上了和Google服务有关的IP黑名单，带有相关IP地址的数据包直接在半路就被丢包了，这会给路由器带来很大负担且成本非常高。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/block-ip.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/block-ip.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[对游戏的解读]]></title>
+            <description><![CDATA[游戏的话，GFW目前对这块干涉比较少，多数游戏是可以连接各国家/地区的服务器，只不过ping值有些过高而已；倒是游戏厂商很热衷封锁中国IP，连接受到各种限制，港澳台除外了。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/game.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/game.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[获取工具方法]]></title>
+            <description><![CDATA[qwant搜索]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/get-method.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/get-method.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[对VPN与代理的整合]]></title>
+            <description><![CDATA[通常来说，我个人的科学上网主要都是浏览网页与下载上传资料以及聊聊天，也不玩各类游戏平台的3A多人在线网游，基本上也是足足的够用了；但你需要玩游戏的话，直接买VPN吧，一般来说购买的VPN基本不会对网络类型、使用流量等各个方面做出严格的限制。如果访问不了主页面可以用DNSCrypt打开被污染的官网站点购买。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/vpn-proxy.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/vpn-proxy.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[不写VPS搭建的原因]]></title>
+            <description><![CDATA[前言也提到过， 自搭使用免费云又需要限制条件很高visa信用卡，不过可以办一张中国银行的银联卡，买美元转账到visa借记卡，但这样又实在很是麻烦。支持支付宝的国外VPS，目前也没有免费的主机配额。 再说也强调过，此书针对的受众是追求自由免费地互联网且有意向了解计算机专业的相关人群等。]]></description>
+            <link>https://loremwalker.github.io/fq-book/append/none-vps.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/append/none-vps.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[总结]]></title>
+            <description><![CDATA[连接互联网成为可能，很大程度和信息加密与流量混淆有关，至少目前不敢封根域名服务器；我相信若有条件成熟的话，根据国情推测，也一定会建成真正的局域网，从古至今历来如此。]]></description>
+            <link>https://loremwalker.github.io/fq-book/summarize.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/summarize.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[参考文献]]></title>
+            <description><![CDATA[| 参考文献名单 |
+|:-:|
+|维基模板-突破网络封锁技术|
+|网络封锁技术方案与反网络封锁技术方案|
+|GFW原理和封锁技术|
+|翻墙路由器的原理与实现|
+|详解防火墙ISA策略元素|
+|TCP/IP四层模型和OSI七层模型|
+|Drcom校园网使用VPN代理|
+|meek流量混淆原理|
+|功夫网原理不靠谱的DNS|
+|上网限制和翻墙基本原理 |
+|科学上网的原理 |
+|科学上网的软件原理|
+|dnsmasq+Stunnel+sniproxy加密代理|
+|VPN隧道协议PPTP、L2TP、IPSec和SSLVPN|
+|VPN 隧道协议PPTP、L2TP、IPSec和SSLVPN的区别|
+|写给非专业人士看的Shadowsocks简介 |
+|[计算机网络]简易http server程序|
+|端口映射和端口转发的区别？|
+|图解正向代理、反向代理、透明代理|
+|用Win7，电脑就是路由器|
+|NAT类型科普及一些简单提升NAT类型的方法|
+|四种NAT的iptables实现|
+|NAT 类型及检测方法|
+|VMware的3种网络模式|
+|草榴社区这类色情网站为什么封不掉|]]></description>
+            <link>https://loremwalker.github.io/fq-book/reference/literature.html</link>
+            <guid isPermaLink="true">https://loremwalker.github.io/fq-book/reference/literature.html</guid>
+            <dc:creator><![CDATA[loremwalker]]></dc:creator>
+        </item>
+    </channel>
+</rss>
